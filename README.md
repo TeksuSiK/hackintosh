@@ -10,7 +10,7 @@
 | Ethernet | Intel I219-V |
 | OS Disk | Gigabyte GP-GSTFS31120GNTD 120GB SSD |
 
-**macOS version:** MacOS Big Sur  
+**macOS version:** MacOS Big Sur  11.1
 **OpenCore version:** 0.6.4
 
 ## Credits
@@ -25,4 +25,6 @@
  - [[Kext] WhateverGreen](https://github.com/acidanthera/WhateverGreen)
  - [[Kext] AppleALC](https://github.com/acidanthera/AppleALC)
  - [[Kext] IntelMausi](https://github.com/acidanthera/IntelMausi/releases)
+ - [[Tool] ProperTree](https://github.com/corpnewt/ProperTree)
+ - [[Tool] GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) 
  - [Dortania](https://dortania.github.io/) for config guides
